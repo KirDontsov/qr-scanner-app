@@ -67,9 +67,8 @@ macos/*.xcodeproj
 .env.local
 *.env
 
-# AI plans and context
-ai/
-.claude/
+# AI plans (generated)
+ai/plans/
 
 # Credentials
 credentials.json
